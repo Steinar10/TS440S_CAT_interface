@@ -1,1 +1,2 @@
 Optoisolated CAT interface for the Kenwood TS-440S(/AT) ham transceiver. I intend to write something like a blog post here in the future. Based on a few different articles, mainly this one: https://piratesinteepees.org/kenwood-ts-440-ic10/ and the ones linked from that page.
+I got the idea of using optocouplers after I saw a circuit inverting the signals using regular transistors on some french(?) website I found on google images, which I sadly can't find anymore.
